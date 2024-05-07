@@ -1,0 +1,20 @@
+from gturtle import *
+
+makeTurtle()
+
+forward(100)
+right(90)
+forward(100)
+right(90)
+forward(100)
+right(90)
+forward(100)
+right(135)
+forward(142)
+left(90)
+forward(71)
+left(90)
+forward(71)
+left(90)
+forward(118)
+forward(35)
